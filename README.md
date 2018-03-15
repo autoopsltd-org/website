@@ -1,4 +1,3 @@
 # my-website
 <p>My Test Website</p>
-<p>A Change on example branch</p>
-<p>Updated locally</p>
+<p>Updates made on master before rebase</p>
