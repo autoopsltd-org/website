@@ -7,3 +7,6 @@
 
 # Purpose
 <p> Another change </p>
+
+# Getting Started
+<p> To get started just clone this repository </p>
