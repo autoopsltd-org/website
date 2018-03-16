@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Exclude Mac OS Temp files
+.DS_Store
+
 # Log file
 *.log
 
